@@ -15,7 +15,7 @@ const Nav = () => {
           <p>How to buy</p>
         </div>
         <div className="flex justify-end w-full md:w-auto">
-          <button className="border-4 px-5 py-0 border-serene_blue  text-serene_blue rounded-full hover:bg-[#ffff]">
+          <button className="border-4 px-5 py-0 border-serene_blue  text-serene_blue rounded-full hover:bg-[#ffff] interact-button">
             Connect Wallet
           </button>
         </div>
