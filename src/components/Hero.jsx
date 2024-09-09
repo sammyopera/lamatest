@@ -31,10 +31,10 @@ const Hero = () => {
           </p>
         </div>
         <div className="flex justify-center mt-5 md:mt-10">
-          <button className="border-4 px-2 md:px-10 py-2 m-5 border-dalai_red rounded-full font-cust hover:bg-serene_blue">
+          <button className="border-4 px-2 md:px-10 py-2 m-5 border-dalai_red rounded-full font-cust hover:bg-serene_blue interact-button">
             BUY $LAMA
           </button>
-          <button className="border-4 px-6 md:px-14 py-2 md:py-4 m-5 border-dalai_red rounded-full font-cust hover:bg-serene_blue">
+          <button className="border-4 px-6 md:px-14 py-2 md:py-4 m-5 border-dalai_red rounded-full font-cust hover:bg-serene_blue interact-button">
             Join Waitlist
           </button>
         </div>
